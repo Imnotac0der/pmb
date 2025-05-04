@@ -26,3 +26,6 @@ Aucun prérequis spécifique pour exécuter ce projet, il suffit de disposer d'u
 1. Clonez ce repository :
    ```bash
    git clone https://github.com/votre-utilisateur/papa-emballages.git
+
+#### Mock-up :
+https://www.canva.com/design/DAGd2rqWqwg/WusaqV0rL3jRi9lOF_Mazg/edit?utm_content=DAGd2rqWqwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
